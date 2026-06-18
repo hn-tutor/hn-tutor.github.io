@@ -1,0 +1,88 @@
+{
+  "profile": {
+    "name": "TRẦN HẢI NAM",
+    "role": "Gia sư môn Toán và Vật Lý",
+    "contact": {
+      "phone": "081542471",
+      "email": "hnamforwork@gmail.com",
+      "facebook": "https://www.facebook.com/hnam.501",
+      "address": "TP. HCM"
+    }
+  },
+  "slides": [
+    {
+      "id": "home",
+      "layout": "hero",
+      "primaryTitle": "TRẦN HẢI NAM",
+      "secondaryTitle": "Gia sư môn Toán và Vật Lý"
+    },
+    {
+      "id": "values",
+      "layout": "split",
+      "primaryTitle": "Về bản thân",
+      "secondaryTitle": "Nhiệt tình, tận tâm, tỉ mỉ và cầu toàn trong công việc",
+      "body": "Nhiệt tình, tận tâm, tỉ mỉ và cầu toàn trong công việc",
+      "highlights": ["Nhiệt tình", "Tận tâm", "Tỉ mỉ", "Cầu toàn"]
+    },
+    {
+      "id": "skills",
+      "layout": "bento-skills",
+      "primaryTitle": "Về bản thân",
+      "secondaryTitle": "Hoạt bát, cởi mở, có kĩ năng truyền đạt tốt",
+      "body": "Mong muốn truyền đạt những kỹ năng đến với học sinh"
+    },
+    {
+      "id": "edu-uni",
+      "layout": "split-a",
+      "primaryTitle": "Học vấn",
+      "secondaryTitle": "Đại học Bách khoa - ĐHQG TPHCM",
+      "body": "Sinh viên Năm nhất chuyên ngành Khoa Học Máy Tính"
+    },
+    {
+      "id": "edu-high",
+      "layout": "split-b",
+      "primaryTitle": "Học vấn",
+      "secondaryTitle": "Trường THPT Chuyên Nguyễn Bỉnh Khiêm - Đà Nẵng",
+      "body": "Học sinh chuyên Lý | Niên khóa: 2023 – 2026"
+    },
+    {
+      "id": "metrics",
+      "layout": "bento-metrics",
+      "primaryTitle": "Thành tích học thuật",
+      "secondaryTitle": "Kết quả học tập & Điểm số ấn tượng",
+      "metrics": [
+        { "label": "Toán THPTQG", "value": "9.0" },
+        { "label": "GPA Toán/Lý", "value": "9.9 | 9.5" }
+      ]
+    },
+    {
+      "id": "awards",
+      "layout": "adaptive-showcase",
+      "primaryTitle": "Thành tích học thuật",
+      "secondaryTitle": "Giải thưởng Học sinh Giỏi các cấp môn Vật lý",
+      "items": [
+        { "year": "Lớp 12", "title": "Giải Ba HSG TP. Đà Nẵng" },
+        { "year": "Lớp 10", "title": "Giải Khuyến Khích HSG Tỉnh Quảng Nam" },
+        { "year": "Lớp 9", "title": "Giải Khuyến khích HSG Tỉnh Quảng Nam" },
+        { "year": "Lớp 8", "title": "Giải Ba HSG Thành Phố" }
+      ]
+    },
+    {
+      "id": "roadmap",
+      "layout": "bento-roadmap",
+      "primaryTitle": "Lộ trình giảng dạy",
+      "secondaryTitle": "Đối tượng, Hình thức, Thời gian & Cam kết",
+      "sections": {
+        "target": ["Học sinh THCS", "Học sinh THPT", "Học sinh mất gốc lớp 12"],
+        "method": "Online (Google Meet) & Offline | 1.5-2h/buổi",
+        "commitments": ["Phương pháp hiệu quả", "Theo sát tiến độ", "Báo cáo thường xuyên"]
+      }
+    },
+    {
+      "id": "contact",
+      "layout": "hero-center",
+      "primaryTitle": "Liên hệ",
+      "secondaryTitle": "Thông tin kết nối và hợp tác"
+    }
+  ]
+}
